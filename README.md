@@ -18,14 +18,14 @@ This repository contains the source code for an image classification project usi
 ### 1. File Structure <a name="file-structure"></a>
 ```
 |- train/                    # Directory for training data
-|  |- +/                # Subfolder (e.g., "+")
-|  |- -/                # Subfolder (e.g., "-")
+|  |- +/                     # Subfolder (e.g., "+")
+|  |- -/                     # Subfolder (e.g., "-")
 |- test/                     # Directory for test data
 |  |- +/
 |  |- -/
-|- new_image.png       # Example image for prediction
-|- image.png           # Example image for prediction
-|- plusminus_ki.py         # Script for training the model and for making predictions on new data
+|- new_image.png             # Example image for prediction (+)
+|- image.png                 # Example image for prediction (-)
+|- plusminus_ki.py           # Script for training the model and for making predictions on new data
 |- README.md                 # Project Readme (this file)
 ```
 
