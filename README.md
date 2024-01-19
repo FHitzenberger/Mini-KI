@@ -9,11 +9,8 @@ This repository contains the source code for an image classification project usi
 1. [File Structure](#file-structure)
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
-4. [Data Preparation](#data-preparation)
-5. [Model Training](#model-training)
-6. [Prediction](#prediction)
-7. [Customization and Improvements](#customization-and-improvements)
-8. [License](#license)
+4. [KI](#plusminus_ki)
+
 
 ### 1. File Structure <a name="file-structure"></a>
 ```
@@ -39,19 +36,23 @@ This repository contains the source code for an image classification project usi
 1. Clone the repository: `git clone https://github.com/FHitzenberger/Mini-KI`
 2. Navigate to the project directory: `cd Mini-KI`
 
-### 4. Data Preparation <a name="data-preparation"></a>
-- Place training images in the `train` directory and test images in the `test` directory. Organize images into subfolders according to their classes.
 
-### 5. Model Training <a name="model-training"></a>
-- Run the script `model_training.py` to train the model: `python model_training.py`
-- The trained model will be saved and can be used for predictions.
+### 4. plusminus_ki.py <a name="plusminus_ki"></a>
+The `plusminus_ki.py` file is a Python script within this project that likely contains code related to the image classification task. Here's a brief overview of its purpose:
 
-### 6. Prediction <a name="prediction"></a>
-- Use the script `make_prediction.py` to make predictions on new data: `python make_prediction.py`
+- **Usage:**
+  - The script may contain functionality specific to the classification of images into the classes '+' and '-'.
 
-### 7. Customization and Improvements <a name="customization-and-improvements"></a>
-- Experiment with model architectures in `model_training.py` for potential improvements.
-- Adjust hyperparameters and add more data augmentation techniques to enhance model performance.
+- **Execution:**
+  - To run the `plusminus_ki.py` script, use the following command:
+    ```
+    python plusminus_ki.py
+    ```
 
-### 8. License <a name="license"></a>
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Functionality:**
+  - Provide a concise description of what the script does and any key functions or features it includes.
+
+- **Example:**
+  - If there are specific examples or use cases for this script, consider providing them here.
+
+Feel free to customize the information based on the actual content and purpose of the `plusminus_ki.py` script.
