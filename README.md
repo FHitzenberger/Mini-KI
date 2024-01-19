@@ -1,4 +1,4 @@
-# Project Readme for TensorFlow-based Image Classification Project
+# Mini-Project for TensorFlow-based Image Classification Project
 
 ## Project Name: Image Classification with TensorFlow
 
