@@ -36,9 +36,8 @@ This repository contains the source code for an image classification project usi
 - scipy (installed via `pip install scipy`)
 
 ### 3. Installation <a name="installation"></a>
-1. Clone the repository: `git clone https://github.com/YourUsername/Image-Classification-with-TensorFlow.git`
-2. Navigate to the project directory: `cd Image-Classification-with-TensorFlow`
-3. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/FHitzenberger/Mini-KI`
+2. Navigate to the project directory: `cd Mini-KI`
 
 ### 4. Data Preparation <a name="data-preparation"></a>
 - Place training images in the `train` directory and test images in the `test` directory. Organize images into subfolders according to their classes.
