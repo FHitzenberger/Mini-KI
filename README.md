@@ -38,21 +38,7 @@ This repository contains the source code for an image classification project usi
 
 
 ### 4. plusminus_ki.py <a name="plusminus_ki"></a>
-The `plusminus_ki.py` file is a Python script within this project that likely contains code related to the image classification task. Here's a brief overview of its purpose:
+The `plusminus_ki.py` file is a Python script within this project, designed for easy execution and testing on new images.
 
-- **Usage:**
-  - The script may contain functionality specific to the classification of images into the classes '+' and '-'.
-
-- **Execution:**
-  - To run the `plusminus_ki.py` script, use the following command:
-    ```
-    python plusminus_ki.py
-    ```
-
-- **Functionality:**
-  - Provide a concise description of what the script does and any key functions or features it includes.
-
-- **Example:**
-  - If there are specific examples or use cases for this script, consider providing them here.
 
 Feel free to customize the information based on the actual content and purpose of the `plusminus_ki.py` script.
